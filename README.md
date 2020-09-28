@@ -2,7 +2,7 @@
 
 <!-- TOC depthFrom:1 depthTo:2 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Typeset Converter for Academic Publishers and Journals](#typeset-converters)
+- [Typeset Converters for Academic Publishers and Journals](#typeset-converters)
     - [Preamble](#preamble)
     - [Meta](#meta)
     - [API overview](#converter-api-overview)
@@ -12,7 +12,7 @@
 
 ## Preamble
 
-The Typeset CONVERTER API is [a variety of tools and APIs](https://typeset.io/for-publishers/convert/pdf-to-jats-xml/) that allow journals and academic publishers to convert:
+The Typeset Converter is [a variety of tools and APIs](https://typeset.io/for-publishers/convert/pdf-to-jats-xml/) that allow journals and academic publishers to convert:
 - PDF to JATS XML
 - PDF to CrossRef XML
 - PDF to PubMed XML
@@ -40,7 +40,7 @@ The Typeset CONVERTER API is [a variety of tools and APIs](https://typeset.io/fo
 ### Support
 
 Check our twitter feeds at [TypesetIO](https://twitter.com/typesetio). 
-Write to us at support@typeset.io
+Write to us at journals@typeset.io
 
 ### Privacy
 
@@ -56,16 +56,16 @@ For that to work, we ask that you be polite and try not to do anything that will
 Specifically, we encourage the following polite behaviour:
 - Don't run the conversion of the same file multiple times.
 - If the conversion fails, that's fine. Please hold on for few hours. These are public systems.
-- The feature set in the Public converters is limited. For instance, you would not see a perfect XML generation happening or data would be missing. This is expected.
-- If you want a complete accurate production - ready conversion, we recommend our [Typeset Publisher Solution](www.typeset.io/for-publishers/?source=github)
+- The feature set in the Public converters is limited. For instance, you would not see a perfect XML generation or data would be missing. This is expected.
+- If you want a complete accurate production - ready conversion, we recommend our [Typeset Publisher Solution.](www.typeset.io/for-publishers/?source=github)
 
 
-### more reliable service is priority
+### More reliable service is priority
 - report problems and/or ask questions on our [issue tracker](https://github.com/TypesetIO/converters/issues).
 - We reserve the right to impose rate limits and/or to block clients that are disrupting the public service.
 
 
-##### Frequently anticipated questions on the Public converters:
+#### Frequently anticipated questions on the Public converters:
 
 **Q:** Will you spam me with marketing info once you have our contact info?
 
@@ -87,8 +87,9 @@ From time to time we need to impose rate limits to ensure that the free converte
 ### Use for production services
 
 What if you want to use our API for a production service. 
+
 Well, good news. Write us an email to "journals@typeset.io" and someone from our Sales team will reach out to you within 24 hours.
-Our Premium Service level offering is known as Typeset Publisher Solution. This service provides you with access to high quality conversion within seconds.
+Our Premium Service level offering is known as [Typeset Publisher Solution](https://www.typeset.io/for-publishers/?source=github). This service provides you with access to high quality conversion within seconds.
 
 #### Authorization token for Typeset Publisher Solution
 
