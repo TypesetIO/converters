@@ -13,20 +13,20 @@
 ## Preamble
 
 The Typeset Converter is [a variety of tools and APIs](https://typeset.io/for-publishers/convert/pdf-to-jats-xml/) that allow journals and academic publishers to convert:
-- PDF to JATS XML
-- PDF to CrossRef XML
-- PDF to PubMed XML
-- PDF to SciELO XML
-- PDF to Redalyc XML
-- PDF to Datatcite XML
-- PDF to DOAJ XML
-- Word to JATS XML
-- Word to CrossRef XML
-- Word to PubMed XML
-- Word to SciELO XML
-- Word to Redalyc XML
-- Word to Datatcite XML
-- Word to DOAJ XML
+- [PDF to JATS XML](https://typeset.io/for-publishers/convert/pdf-to-jats-xml/)
+- [PDF to CrossRef XML](https://typeset.io/for-publishers/convert/pdf-to-crossref-xml/)
+- [PDF to PubMed XML](https://typeset.io/for-publishers/convert/pdf-to-pmc-xml/)
+- [PDF to SciELO XML](https://typeset.io/for-publishers/convert/pdf-to-scielo-xml/)
+- [PDF to Redalyc XML](https://typeset.io/for-publishers/convert/pdf-to-redalyc-xml/)
+- [PDF to Datatcite XML](https://typeset.io/for-publishers/convert/pdf-to-datacite-xml/)
+- [PDF to DOAJ XML](https://typeset.io/for-publishers/convert/pdf-to-doaj-xml/)
+- [Word to JATS XML](https://typeset.io/for-publishers/convert/word-to-jats-xml/)
+- [Word to CrossRef XML]()
+- [Word to PubMed XML]
+- [Word to SciELO XML]
+- [Word to Redalyc XML]
+- [Word to Datatcite XML]
+- [Word to DOAJ XML]
 - JATS XML to PDF (API available)
 - CrossRef XML to PDF (API available)
 - PubMed XML to PDF (API available)
